@@ -45,25 +45,4 @@ To run the project open the downloaded folder (after extraction) then run the "*
 
 ## Authors
 
-👤 **Manel Hammouche**
 
-- GitHub: [@ha-manel](https://github.com/ha-manel)
-- Twitter: [@hamanel](https://twitter.com/ha_manel_)
-- LinkedIn: [Manel Hammouche](https://www.linkedin.com/in/manel-hammouche/)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to code reviewers and to everyone who reviewed the project and made suggestions.
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
-"# ToDoListWebToApp" 
