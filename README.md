@@ -22,18 +22,6 @@ Build a Todo list using:
 - Webpack
 - Linters (Lighthouse, Webhint, Stylelint, Eslint)
 
-## Live Demo
-
-Check **Live Demo** [here.](https://ha-manel.github.io/Todo-list/dist/)
-
-## Getting Started
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-- A web browser (like Google Chrome, Opera...).
-- A code editor (like Atom, VScode...).
 
 ### Setup
 
@@ -42,7 +30,5 @@ To setup the webpage locally: click on "**Code**" (dropdown list) then "**Downlo
 ### Deployment
 
 To run the project open the downloaded folder (after extraction) then run the "**index.html**" file in your browser.
-
-## Authors
 
 
